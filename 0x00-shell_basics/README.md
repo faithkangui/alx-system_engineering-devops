@@ -1,1 +1,1 @@
-list directory content in long format
+lists even the hidden files
