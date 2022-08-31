@@ -1,1 +1,1 @@
-lists even the hidden files
+changes the working directory to user home directory
