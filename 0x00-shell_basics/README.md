@@ -1,1 +1,1 @@
-lists all file even hidden
+print the type of a named file
