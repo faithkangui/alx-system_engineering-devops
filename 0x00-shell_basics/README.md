@@ -1,1 +1,1 @@
-pwd prints working directory
+displays content list of current directory
