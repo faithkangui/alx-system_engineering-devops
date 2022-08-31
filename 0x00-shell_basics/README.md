@@ -1,1 +1,1 @@
-moves all files starting with uppercase
+delete files that end with ~character
