@@ -1,1 +1,1 @@
-print the type of a named file
+symbolic links
